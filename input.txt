@@ -1,0 +1,4 @@
+practice03 file I/O
+test text
+sample string
+please input text.
